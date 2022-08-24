@@ -1,54 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Donna Browne">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11772</md:content-id>
-  <md:title>Cardiovascular System</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>9e62e0fc-ff48-4ecd-ab7f-a09cafae7656</md:uuid>
-<md:slug>cardiovascular-system</md:slug>
-</metadata>
-
+    <md:content-id>col11772</md:content-id>
+    <md:title>Cardiovascular System</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>9e62e0fc-ff48-4ecd-ab7f-a09cafae7656</md:uuid>
+    <md:slug>cardiovascular-system</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m49668"/>
-        
-      
-    
-    
-      <col:module document="m49688"/>
-        
-      
-    
-    
-      <col:module document="m49683"/>
-        
-      
-    
-    
-      <col:module document="m49686"/>
-        
-      
-    
-    
-      <col:module document="m49689"/>
-        
-      
-    
-    
-      <col:module document="m49692"/>
-        
-      
-    
+    <col:module document="m49668"/>
+    <col:module document="m49688"/>
+    <col:module document="m49683"/>
+    <col:module document="m49686"/>
+    <col:module document="m49689"/>
+    <col:module document="m49692"/>
   </col:content>
 </col:collection>
